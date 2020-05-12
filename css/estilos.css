@@ -1,6 +1,6 @@
 body {
-background-image: url('https://1.bp.blogspot.com/-plW4zjilgK8/Xfg1TBEGbVI/AAAAAAAAB90/P0CpiEtFyDs7cjUhkofEsagbeDK9vG71QCLcBGAsYHQ/s1600/portal%2Bgun%2Brick%2Band%2Bmorty.png');
-background-size: auto, 100vh;
+background-image: url('https://www.toptal.com/designers/subtlepatterns/patterns/double-bubble-dark.png');
+background-size: 250px, auto;
 height: 100vh;
 font-family: arial;
 }
@@ -28,6 +28,7 @@ font-family: arial;
   display: flex;
   justify-content: space-around;
   outline-style: solid;
+  outline-color: darkgray;
 }
 
 a {
